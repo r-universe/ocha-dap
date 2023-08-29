@@ -5,3 +5,6 @@
 [submodule "gghdx"]
 	path = gghdx
 	url = https://github.com/ocha-dap/gghdx
+[submodule "idmc"]
+	path = idmc
+	url = https://github.com/ocha-dap/idmc
