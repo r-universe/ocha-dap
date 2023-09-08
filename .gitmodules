@@ -8,3 +8,6 @@
 [submodule "idmc"]
 	path = idmc
 	url = https://github.com/ocha-dap/idmc
+[submodule "ripc"]
+	path = ripc
+	url = https://github.com/ocha-dap/ripc
